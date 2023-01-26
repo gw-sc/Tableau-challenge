@@ -1,7 +1,7 @@
 # Tableau-challenge
 DAV Module 18 Tableau Challenge
 
-My Tableau Public profile: [gw-sc](https://public.tableau.com/app/profile/grace.cheuk): 
+My Tableau Public profile: [gw-sc](https://public.tableau.com/app/profile/grace.cheuk)
 
 CitiBike Analysis: [CitiBike-Analysis](https://public.tableau.com/app/profile/grace.cheuk/viz/Tableau-challenge_NYCitiBike/Home?publish=yes)
 
