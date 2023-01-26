@@ -1,8 +1,8 @@
 # Tableau-challenge
 DAV Module 18 Tableau Challenge
 
-My Tableau Public profile: [gw-sc] (https://public.tableau.com/app/profile/grace.cheuk)
-[CitiBike-Analysis] (https://public.tableau.com/app/profile/grace.cheuk/viz/Tableau-challenge_NYCitiBike/Home?publish=yes)
+My Tableau Public profile: [gw-sc](https://public.tableau.com/app/profile/grace.cheuk)
+[CitiBike-Analysis](https://public.tableau.com/app/profile/grace.cheuk/viz/Tableau-challenge_NYCitiBike/Home?publish=yes)
 
 # Unit 18 Homework: Citi Bike Analytics
 
@@ -10,7 +10,7 @@ My Tableau Public profile: [gw-sc] (https://public.tableau.com/app/profile/grace
 
 * Save this assignment to your Tableau Public account rather than GitHub. 
 
-* If you haven't already, make sure to create a Tableau Public [account] (https://public.tableau.com/s/).
+* If you haven't already, make sure to create a Tableau Public [account](https://public.tableau.com/s/).
 
 * The free tier of Tableau only lets you save to their public server. So, each time you save your file, it will be uploaded to your Tableau Public profile. 
 
